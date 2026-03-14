@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "恋愛後遺症",
+  "base_artist": "7co",
+  "createdAt": "2026-03-14T12:40:51.279680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋愛後遺症",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/01_恋愛後遺症_7co.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋愛後遺症",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/pl_01_恋愛後遺症_7co.txt"
+    }
+  ]
+}
